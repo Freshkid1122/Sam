@@ -1,0 +1,39 @@
+.body{
+    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.Main{
+    margin-top: 100px;
+}
+.Log{
+    color: #00684A;
+    font-size: 20px;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sign{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+.google-box{
+    height: 20px;
+    width: 300px;
+    border: 1px  solid black;
+    display: flex;
+    gap: none;
+    padding: 20px;
+    margin-left: 50px;
+}
+.Github-box{
+    display: flex;
+    border: 1px solid black;
+    width: 300px;
+    padding: 20px;
+    height: 20px;
+margin-left: 50px;    
+gap: none;
+}
